@@ -1,4 +1,4 @@
-# Expansão de disco LVM
+# Expansão de disco LVM XCP-NG
 
 > Expandir a partição com parted
 ```
